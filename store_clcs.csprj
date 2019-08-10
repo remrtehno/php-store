@@ -1,0 +1,771 @@
+
+<codestructure version="1.4">
+<phptree>
+<treenode node="../DB.php;PHP:PHP Include;C:\OpenServer\domains\store\inc\edit-profile.php;f10;2;19;2;;C:\OpenServer\domains\store\admin\edit-all.php;f10;1;19;1;;C:\OpenServer\domains\store\admin\delete.php;f9;1;18;1;;C:\OpenServer\domains\store\admin\all_cmnt.php;f10;1;19;1;;C:\OpenServer\domains\store\admin\orders.php;f10;1;19;1;;C:\OpenServer\domains\store\admin\save-changes.php;f9;1;18;1;;C:\OpenServer\domains\store\admin\add-new-item.php;f9;4;18;4;;C:\OpenServer\domains\store\admin\edit-category-products.php;f10;1;19;1;;C:\OpenServer\domains\store\admin\edit-products.php;f10;1;19;1;;C:\OpenServer\domains\store\admin\add-all.php;f10;1;19;1;;C:\OpenServer\domains\store\admin\all_user.php;f10;1;19;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB.php;PHP:PHP Include;C:\OpenServer\domains\store\write_msg.php;f10;1;16;1;;C:\OpenServer\domains\store\send_msg.php;f10;1;16;1;;C:\OpenServer\domains\store\search.php;f10;1;16;1;;C:\OpenServer\domains\store\register.php;f10;2;16;2;;C:\OpenServer\domains\store\product.php;f10;1;16;1;;C:\OpenServer\domains\store\order.php;f10;1;16;1;;C:\OpenServer\domains\store\login.php;f9;1;15;1;;C:\OpenServer\domains\store\edit.php;f10;2;16;2;;C:\OpenServer\domains\store\delete_prod.php;f11;2;17;2;;C:\OpenServer\domains\store\category.php;f10;1;16;1;;C:\OpenServer\domains\store\cabinet.php;f10;1;16;1;;C:\OpenServer\domains\store\admin.php;f10;1;16;1;;C:\OpenServer\domains\store\addComment.php;f9;1;15;1;;C:\OpenServer\domains\store\add_to_cart.php;f11;2;17;2;;C:\OpenServer\domains\store\index.php;f10;2;16;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FilterInterface;PHP:Interface Name;C:\OpenServer\domains\store\admin\Intervention\Image\Filters\FilterInterface.php;f0;4;1;13;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="applyFilter;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Filters\FilterInterface.php;f11;12;65;12;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Applies filter to given image&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="admin/admin.php;PHP:PHP Include;C:\OpenServer\domains\store\admin.php;f10;6;25;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="admin/content.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\admin.php;f15;18;32;18;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="admin/footer.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\admin.php;f14;33;30;33;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="admin/header.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\admin.php;f12;1;28;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="admin/left-sidebar.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\admin.php;f12;7;34;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="assets/posteddata.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\bower_components\ckeditor\samples\old\sample_posteddata.php;f52;15;73;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="footer.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\all_cmnt.php;f14;77;24;77;;C:\OpenServer\domains\store\search.php;f15;74;25;74;;C:\OpenServer\domains\store\product.php;f15;141;25;141;;C:\OpenServer\domains\store\category.php;f15;74;25;74;;C:\OpenServer\domains\store\cabinet.php;f15;168;25;168;;C:\OpenServer\domains\store\admin\orders.php;f14;130;24;130;;C:\OpenServer\domains\store\index.php;f15;76;25;76;;C:\OpenServer\domains\store\admin\edit-category-products.php;f14;82;24;82;;C:\OpenServer\domains\store\admin\edit-products.php;f14;87;24;87;;C:\OpenServer\domains\store\admin\all_user.php;f14;84;24;84;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="header.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\all_cmnt.php;f12;5;22;5;;C:\OpenServer\domains\store\search.php;f10;2;20;2;;C:\OpenServer\domains\store\product.php;f10;2;20;2;;C:\OpenServer\domains\store\category.php;f10;2;20;2;;C:\OpenServer\domains\store\cabinet.php;f10;2;20;2;;C:\OpenServer\domains\store\admin\orders.php;f12;5;22;5;;C:\OpenServer\domains\store\index.php;f10;3;20;3;;C:\OpenServer\domains\store\admin\edit-category-products.php;f12;5;22;5;;C:\OpenServer\domains\store\admin\edit-products.php;f12;5;22;5;;C:\OpenServer\domains\store\admin\all_user.php;f12;5;22;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="left-sidebar.php;PHP:PHP Include;C:\OpenServer\domains\store\admin\all_cmnt.php;f12;11;28;11;;C:\OpenServer\domains\store\admin\orders.php;f12;11;28;11;;C:\OpenServer\domains\store\admin\edit-category-products.php;f12;11;28;11;;C:\OpenServer\domains\store\admin\edit-products.php;f12;11;28;11;;C:\OpenServer\domains\store\admin\all_user.php;f12;11;28;11;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="sidebar.php;PHP:PHP Include;C:\OpenServer\domains\store\search.php;f23;47;34;47;;C:\OpenServer\domains\store\product.php;f23;48;34;48;;C:\OpenServer\domains\store\category.php;f23;47;34;47;;C:\OpenServer\domains\store\index.php;f23;48;34;48;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="AbstractColor;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f9;4;1;225;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f11;102;5;105;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($value = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$value&lt;/b&gt;;;d4,103;;b1,0;;m0;;emixed $value;;p">
+</treenode>
+<treenode node="differs;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;95;74;95;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current color is different from given color&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    AbstractColor &lt;b&gt;$color&lt;/b&gt;&#10;    int &lt;b&gt;$tolerance&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eAbstractColor $color;;pint $tolerance;;p">
+</treenode>
+<treenode node="format;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f11;152;5;178;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    format($type)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Formats current color instance into given format&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$type&lt;/b&gt;;;d4,153;;b1,0;;m0;;estring $type;;p">
+</treenode>
+<treenode node="getArray;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;79;39;79;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates RGB(A) in array format of current color instance;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getHex;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;72;44;72;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates hexadecimal value of current color instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$prefix&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;estring $prefix;;p">
+</treenode>
+<treenode node="getInt;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;64;37;64;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates integer value of current color instance;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getRgba;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;86;38;86;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates RGBA in string format of current color instance;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+<treenode node="initFromArray;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;20;50;20;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given array&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$value&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;earray $value;;p">
+</treenode>
+<treenode node="initFromInteger;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;12;52;12;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from integer&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$value&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eint $value;;p">
+</treenode>
+<treenode node="initFromObject;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;36;51;36;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given ImagickPixel object&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    ImagickPixel &lt;b&gt;$value&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eImagickPixel $value;;p">
+</treenode>
+<treenode node="initFromRgb;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;46;52;46;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given R, G and B values&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$r&lt;/b&gt;&#10;    int &lt;b&gt;$g&lt;/b&gt;&#10;    int &lt;b&gt;$b&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eint $r;;pint $g;;pint $b;;p">
+</treenode>
+<treenode node="initFromRgba;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;57;57;57;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given R, G, B and A values&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$r&lt;/b&gt;&#10;    int &lt;b&gt;$g&lt;/b&gt;&#10;    int &lt;b&gt;$b&lt;/b&gt;&#10;    float &lt;b&gt;$a&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eint $r;;pint $g;;pint $b;;pfloat $a;;p">
+</treenode>
+<treenode node="initFromString;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f20;28;51;28;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given string&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$value&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;estring $value;;p">
+</treenode>
+<treenode node="parse;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f11;113;5;144;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    parse($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Parses given value as color&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$value&lt;/b&gt;;;d4,114;;b1,0;;m0;;emixed $value;;p">
+</treenode>
+<treenode node="rgbaFromString;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractColor.php;f14;186;5;224;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    rgbaFromString($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Reads RGBA values from string into array&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$value&lt;/b&gt;;;d4,187;;b2,0;;m0;;estring $value;;p">
+</treenode>
+</treenode>
+<treenode node="AbstractCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\AbstractCommand.php;f9;4;1;78;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\AbstractCommand.php;f11;33;5;36;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($arguments)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new command instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$arguments&lt;/b&gt;;;d4,34;;b1,0;;m0;;earray $arguments;;p">
+</treenode>
+<treenode node="argument;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\AbstractCommand.php;f11;44;5;47;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    argument($key)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new argument instance from given argument key&#10;\Intervention\Image\Commands\Argument&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$key&lt;/b&gt;;;d4,45;;b1,0;;m0;;eint $key;;p">
+</treenode>
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\AbstractCommand.php;f20;26;44;26;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Executes current command on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+<treenode node="getOutput;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\AbstractCommand.php;f11;54;5;57;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getOutput()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns output data of current command;;d4,55;;b1,0;;m0;;e">
+</treenode>
+<treenode node="hasOutput;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\AbstractCommand.php;f11;64;5;67;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    hasOutput()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current instance has output data;;d4,65;;b1,0;;m0;;e">
+</treenode>
+<treenode node="setOutput;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\AbstractCommand.php;f11;74;5;77;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setOutput($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets output data of current command&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$value&lt;/b&gt;;;d4,75;;b1,0;;m0;;emixed $value;;p">
+</treenode>
+</treenode>
+<treenode node="AbstractDecoder;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f9;7;1;357;;;;vpos;;v;;a;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;53;5;56;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($data = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new Decoder with data&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$data&lt;/b&gt;;;d4,54;;b1,0;;m0;;emixed $data;;p">
+</treenode>
+<treenode node="__toString;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;353;5;356;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __toString()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Decoder object transforms to string source data;;d4,354;;b1,0;;m0;;e">
+</treenode>
+<treenode node="decodeDataUrl;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f12;284;5;298;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    decodeDataUrl($data_url)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Parses and decodes binary image data from data-url&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$data_url&lt;/b&gt;;;d4,285;;b3,0;;m0;;estring $data_url;;p">
+</treenode>
+<treenode node="init;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;306;5;346;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    init($data)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from mixed data&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$data&lt;/b&gt;;;d4,307;;b1,0;;m0;;emixed $data;;p">
+</treenode>
+<treenode node="initFromBinary;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f20;23;50;23;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from binary data&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$data&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;estring $data;;p">
+</treenode>
+<treenode node="initFromGdResource;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f20;31;58;31;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from GD resource&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Resource &lt;b&gt;$resource&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eResource $resource;;p">
+</treenode>
+<treenode node="initFromImagick;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f20;39;62;39;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from Imagick object&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Imagick &lt;b&gt;$object&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;e\Imagick $object;;p">
+</treenode>
+<treenode node="initFromInterventionImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;273;5;276;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromInterventionImage($object)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new Image from Intervention\Image\Image&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$object&lt;/b&gt;;;d4,274;;b1,0;;m0;;eImage $object;;p">
+</treenode>
+<treenode node="initFromPath;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f20;15;48;15;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from path in filesystem&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$path&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;estring $path;;p">
+</treenode>
+<treenode node="initFromStream;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;93;5;128;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromStream($stream)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Init from given stream&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    StreamInterface|resource &lt;b&gt;$stream&lt;/b&gt;;;d4,94;;b1,0;;m0;;eStreamInterface|resource $stream;;p">
+</treenode>
+<treenode node="initFromUrl;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;64;5;85;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromUrl($url)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Init from given URL&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$url&lt;/b&gt;;;d4,65;;b1,0;;m0;;estring $url;;p">
+</treenode>
+<treenode node="isBase64;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;258;5;265;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isBase64()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is base64 encoded;;d4,259;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isBinary;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;231;5;239;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isBinary()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is binary data;;d4,232;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isDataUrl;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;246;5;251;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isDataUrl()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is data-url;;d4,247;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isFilePath;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;189;5;200;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isFilePath()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is file path;;d4,190;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isGdResource;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;135;5;142;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isGdResource()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is GD resource;;d4,136;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isImagick;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;149;5;152;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isImagick()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is Imagick object;;d4,150;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isInterventionImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;159;5;162;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isInterventionImage()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is Intervention\Image\Image object;;d4,160;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isSplFileInfo;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;169;5;172;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isSplFileInfo()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current data is SplFileInfo object;;d4,170;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isStream;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;217;5;224;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isStream()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is a stream resource;;d4,218;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isSymfonyUpload;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;179;5;182;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isSymfonyUpload()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current data is Symfony UploadedFile component;;d4,180;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isUrl;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDecoder.php;f11;207;5;210;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isUrl()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current source data is url;;d4,208;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="AbstractDriver;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f9;4;1;133;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="cloneCore;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f11;50;5;53;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    cloneCore($core)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns clone of given core;;d4,51;;b1,0;;m0;;ecore;;p">
+</treenode>
+<treenode node="coreAvailable;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f23;43;47;43;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if core module installation is available;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="encode;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f11;74;5;77;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    encode($image, $format, $quality)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Encodes given image&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    string &lt;b&gt;$format&lt;/b&gt;&#10;    int &lt;b&gt;$quality&lt;/b&gt;;;d4,75;;b1,0;;m0;;eImage $image;;pstring $format;;pint $quality;;p">
+</treenode>
+<treenode node="executeCommand;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f11;87;5;94;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    executeCommand($image, $name, $arguments)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Executes named command on given image&#10;\Intervention\Image\Commands\AbstractCommand&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    string &lt;b&gt;$name&lt;/b&gt;&#10;    array &lt;b&gt;$arguments&lt;/b&gt;;;d4,88;;b1,0;;m0;;eImage $image;;pstring $name;;parray $arguments;;p">
+</treenode>
+<treenode node="getCommandClassName;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f12;102;5;119;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getCommandClassName($name)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns classname of given command name&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$name&lt;/b&gt;;;d4,103;;b3,0;;m0;;estring $name;;p">
+</treenode>
+<treenode node="getDriverName;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f11;126;5;132;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getDriverName()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns name of current driver instance;;d4,127;;b1,0;;m0;;e">
+</treenode>
+<treenode node="init;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f11;61;5;64;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    init($data)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from given input&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$data&lt;/b&gt;;;d4,62;;b1,0;;m0;;emixed $data;;p">
+</treenode>
+<treenode node="newImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f20;28;67;28;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new image instance&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;&#10;    string &lt;b&gt;$background&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eint $width;;pint $height;;pstring $background;;p">
+</treenode>
+<treenode node="parseColor;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractDriver.php;f20;36;47;36;;;;vpos;;v;;aAbstractColor;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Reads given string into color object&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$value&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;estring $value;;p">
+</treenode>
+</treenode>
+<treenode node="AbstractEncoder;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f9;4;1;240;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="process;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f11;91;5;177;;;;vpos;;v;;aImage;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    process(Image $image, $format = null, $quality = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Process a given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    string &lt;b&gt;$format&lt;/b&gt;&#10;    int &lt;b&gt;$quality&lt;/b&gt;;;d4,92;;b1,0;;m0;;eImage $image;;pstring $format;;pint $quality;;p">
+</treenode>
+<treenode node="processBmp;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f23;67;44;67;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as BMP string;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processDataUrl;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f14;184;5;192;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processDataUrl()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as data-url string;;d4,185;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processGif;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f23;53;44;53;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as GIF string;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processIco;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f23;74;44;74;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as ICO string;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processJpeg;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f23;39;45;39;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as JPEG string;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processPng;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f23;46;44;46;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as PNG string;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processTiff;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f23;60;45;60;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as TIFF string;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processWebp;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f23;81;45;81;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns image as WebP encoded string;;d-1,-1;;b2,0;;m0;;e">
+</treenode>
+<treenode node="setFormat;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f14;209;5;218;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setFormat($format = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines output format&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$format&lt;/b&gt;;;d4,210;;b2,0;;m0;;estring $format;;p">
+</treenode>
+<treenode node="setImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f14;199;5;202;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setImage($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets image to process&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;;;d4,200;;b2,0;;m0;;eImage $image;;p">
+</treenode>
+<treenode node="setQuality;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractEncoder.php;f14;225;5;239;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setQuality($quality)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines output quality&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$quality&lt;/b&gt;;;d4,226;;b2,0;;m0;;eint $quality;;p">
+</treenode>
+</treenode>
+<treenode node="AbstractFont;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f9;4;1;266;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;77;5;80;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($text = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create a new instance of Font&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Strinf &lt;b&gt;$text&lt;/b&gt;: Text to be written;;d4,78;;b1,0;;m0;;eStrinf $text;;p">
+</treenode>
+<treenode node="align;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;180;5;185;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    align($align)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set horizontal text alignment&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$align&lt;/b&gt;;;d4,181;;b1,0;;m0;;estring $align;;p">
+</treenode>
+<treenode node="angle;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;157;5;162;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    angle($angle)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set rotation angle of text&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$angle&lt;/b&gt;;;d4,158;;b1,0;;m0;;eint $angle;;p">
+</treenode>
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f20;63;77;63;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draws font to given image on given position&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$posx&lt;/b&gt;&#10;    int &lt;b&gt;$posy&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eImage $image;;pint $posx;;pint $posy;;p">
+</treenode>
+<treenode node="color;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;134;5;139;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    color($color)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set color of text to be written&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$color&lt;/b&gt;;;d4,135;;b1,0;;m0;;emixed $color;;p">
+</treenode>
+<treenode node="countLines;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;262;5;265;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    countLines()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Counts lines of text to be written;;d4,263;;b1,0;;m0;;e">
+</treenode>
+<treenode node="file;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;226;5;231;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    file($file)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set path to font file&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$file&lt;/b&gt;;;d4,227;;b1,0;;m0;;estring $file;;p">
+</treenode>
+<treenode node="getAlign;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;192;5;195;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getAlign()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get horizontal text alignment;;d4,193;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getAngle;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;169;5;172;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getAngle()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get rotation angle of text;;d4,170;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getBoxSize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f20;70;41;70;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates bounding box of current font setting;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getColor;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;146;5;149;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getColor()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get color of text;;d4,147;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getFile;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;238;5;241;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getFile()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get path to font file;;d4,239;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getSize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;123;5;126;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getSize()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get font size in pixels;;d4,124;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getText;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;100;5;103;;;;vpos;;v;;aString;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getText()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get text to be written;;d4,101;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getValign;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;215;5;218;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getValign()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get vertical text alignment;;d4,216;;b1,0;;m0;;e">
+</treenode>
+<treenode node="hasApplicableFontFile;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f14;248;5;255;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    hasApplicableFontFile()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if current font has access to an applicable font file;;d4,249;;b2,0;;m0;;e">
+</treenode>
+<treenode node="size;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;111;5;116;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    size($size)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set font size in pixels&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$size&lt;/b&gt;;;d4,112;;b1,0;;m0;;eint $size;;p">
+</treenode>
+<treenode node="text;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;88;5;93;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    text($text)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set text to be written&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    String &lt;b&gt;$text&lt;/b&gt;;;d4,89;;b1,0;;m0;;eString $text;;p">
+</treenode>
+<treenode node="valign;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractFont.php;f11;203;5;208;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    valign($valign)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set vertical text alignment&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$valign&lt;/b&gt;;;d4,204;;b1,0;;m0;;estring $valign;;p">
+</treenode>
+</treenode>
+<treenode node="AbstractShape;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractShape.php;f9;4;1;70;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractShape.php;f20;35;77;35;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draws shape to given image on given position&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$posx&lt;/b&gt;&#10;    int &lt;b&gt;$posy&lt;/b&gt;;;d-1,-1;;b1,0;;m0;;eImage $image;;pint $posx;;pint $posy;;p">
+</treenode>
+<treenode node="background;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractShape.php;f11;43;5;46;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    background($color)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set text to be written&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$text&lt;/b&gt;;;d4,44;;b1,0;;m0;;estring $text;;p">
+</treenode>
+<treenode node="border;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractShape.php;f11;55;5;59;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    border($width, $color = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set border width and color of current shape&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    string &lt;b&gt;$color&lt;/b&gt;;;d4,56;;b1,0;;m0;;eint $width;;pstring $color;;p">
+</treenode>
+<treenode node="hasBorder;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\AbstractShape.php;f11;66;5;69;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    hasBorder()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current shape has border;;d4,67;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Argument;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f0;4;1;224;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;26;5;30;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct(AbstractCommand $command, $key = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new instance from given command and key&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    AbstractCommand &lt;b&gt;$command&lt;/b&gt;&#10;    int &lt;b&gt;$key&lt;/b&gt;;;d4,27;;b1,0;;m0;;eAbstractCommand $command;;pint $key;;p">
+</treenode>
+<treenode node="between;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;150;5;168;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    between($x, $y)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines that current argument value must be numeric between given values&#10;\Intervention\Image\Commands\Argument;;d4,151;;b1,0;;m0;;ex;;py;;p">
+</treenode>
+<treenode node="getCommandName;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;37;5;41;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getCommandName()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns name of current arguments command;;d4,38;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isDigit;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f12;220;5;223;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isDigit($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if value is &quot;PHP&quot; integer (120 but also 120.0)&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$value&lt;/b&gt;;;d4,221;;b3,0;;m0;;emixed $value;;p">
+</treenode>
+<treenode node="max;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;197;5;212;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    max($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines that current argument must be under a maxiumum value&#10;\Intervention\Image\Commands\Argument;;d4,198;;b1,0;;m0;;evalue;;p">
+</treenode>
+<treenode node="min;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;175;5;190;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    min($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines that current argument must be over a minimum value&#10;\Intervention\Image\Commands\Argument;;d4,176;;b1,0;;m0;;evalue;;p">
+</treenode>
+<treenode node="required;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;65;5;74;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    required()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Defines current argument as required&#10;\Intervention\Image\Commands\Argument;;d4,66;;b1,0;;m0;;e">
+</treenode>
+<treenode node="type;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;81;5;143;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    type($type)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines that current argument must be of given type&#10;\Intervention\Image\Commands\Argument;;d4,82;;b1,0;;m0;;etype;;p">
+</treenode>
+<treenode node="value;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\Argument.php;f11;49;5;58;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    value($default = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns value of current argument&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$default&lt;/b&gt;;;d4,50;;b1,0;;m0;;emixed $default;;p">
+</treenode>
+</treenode>
+<treenode node="Autoloader;PHP:Class Name;C:\OpenServer\domains\store\admin\add-new-item.php;f0;11;1;24;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    class Autoloader&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Simple autoloader, so we don&apos;t need Composer just for this.;;d0,12;;b0,0;;m0;;e">
+<treenode node="register;PHP:Function Name;C:\OpenServer\domains\store\admin\add-new-item.php;f18;13;5;23;;;;vpos;;v;;a;;r;;d4,14;;b1,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="BackupCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\BackupCommand.php;f0;4;1;22;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\BackupCommand.php;f0;4;1;22;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\BackupCommand.php;f11;12;5;21;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\BackupCommand.php;f11;12;5;21;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Saves a backups of current state of image core&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="BlurCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\BlurCommand.php;f0;4;1;18;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\BlurCommand.php;f0;4;1;22;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\BlurCommand.php;f11;12;5;17;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\BlurCommand.php;f11;12;5;21;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Applies blur effect on image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="BrightnessCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\BrightnessCommand.php;f0;4;1;18;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\BrightnessCommand.php;f0;4;1;18;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\BrightnessCommand.php;f11;12;5;17;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\BrightnessCommand.php;f11;12;5;17;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Changes image brightness&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="ChecksumCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\ChecksumCommand.php;f0;4;1;28;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\ChecksumCommand.php;f11;12;5;27;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates checksum of given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="CircleCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\CircleCommand.php;f0;6;1;34;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\CircleCommand.php;f11;14;5;33;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draw a circle centered on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\image $image;;p">
+</treenode>
+</treenode>
+<treenode node="CircleShape;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\CircleShape.php;f0;6;1;39;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\CircleShape.php;f0;6;1;39;;;;vpos;;v;;aEllipseShape;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\CircleShape.php;f11;20;5;25;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\CircleShape.php;f11;20;5;25;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($diameter = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create new instance of circle&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$diameter&lt;/b&gt;;;d4,21;;b1,0;;m0;;eint $diameter;;p">
+</treenode>
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\CircleShape.php;f11;35;5;38;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\CircleShape.php;f11;35;5;38;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    applyToImage(Image $image, $x = 0, $y = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draw current circle on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,36;;b1,0;;m0;;eImage $image;;pint $x;;pint $y;;p">
+</treenode>
+</treenode>
+<treenode node="Color;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f0;4;1;276;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f0;6;1;225;;;;vpos;;v;;aAbstractColor;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="alpha2gd;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f12;215;5;224;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    alpha2gd($input)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Convert rgba alpha (0-1) value to gd value (0-127)&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    float &lt;b&gt;$input&lt;/b&gt;;;d4,216;;b3,0;;m0;;efloat $input;;p">
+</treenode>
+<treenode node="differs;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;180;5;198;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;189;5;207;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    differs(\Intervention\Image\AbstractColor $color, $tolerance = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if current color is different from given color&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    AbstractColor &lt;b&gt;$color&lt;/b&gt;&#10;    int &lt;b&gt;$tolerance&lt;/b&gt;;;d4,181;;b1,0;;m0;;eAbstractColor $color;;pint $tolerance;;p">
+</treenode>
+<treenode node="getAlphaValue;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;235;5;238;;;;vpos;;v;;afloat;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getAlphaValue()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns RGB alpha value of current color;;d4,236;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getArray;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;148;5;156;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;167;5;170;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getArray()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates RGB(A) in array format of current color instance;;d4,149;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getBlueValue;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;225;5;228;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getBlueValue()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns RGB blue value of current color;;d4,226;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getGreenValue;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;215;5;218;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getGreenValue()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns RGB green value of current color;;d4,216;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getHex;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;134;5;141;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;157;5;160;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getHex($prefix = &apos;&apos;)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates hexadecimal value of current color instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$prefix&lt;/b&gt;;;d4,135;;b1,0;;m0;;estring $prefix;;p">
+</treenode>
+<treenode node="getInt;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;117;5;125;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;146;5;149;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getInt()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates integer value of current color instance;;d4,118;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getPixel;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;259;5;262;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getPixel()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns current color as ImagickPixel&#10;\ImagickPixel;;d4,260;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getRedValue;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;205;5;208;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getRedValue()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns RGB red value of current color;;d4,206;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getRgba;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;163;5;171;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;177;5;180;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getRgba()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates RGBA in string format of current color instance;;d4,164;;b1,0;;m0;;e">
+</treenode>
+<treenode node="initFromArray;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;36;5;53;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;56;5;77;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromArray($array)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given array&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$value&lt;/b&gt;;;d4,37;;b1,0;;m0;;earray $value;;p">
+</treenode>
+<treenode node="initFromInteger;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;19;5;28;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;42;5;48;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromInteger($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from integer&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$value&lt;/b&gt;;;d4,20;;b1,0;;m0;;eint $value;;p">
+</treenode>
+<treenode node="initFromObject;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;76;5;81;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;134;5;139;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromObject($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given ImagickPixel object&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    ImagickPixel &lt;b&gt;$value&lt;/b&gt;;;d4,77;;b1,0;;m0;;eImagickPixel $value;;p">
+</treenode>
+<treenode node="initFromRgb;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;92;5;95;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;103;5;109;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromRgb($r, $g, $b)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given R, G and B values&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$r&lt;/b&gt;&#10;    int &lt;b&gt;$g&lt;/b&gt;&#10;    int &lt;b&gt;$b&lt;/b&gt;;;d4,93;;b1,0;;m0;;eint $r;;pint $g;;pint $b;;p">
+</treenode>
+<treenode node="initFromRgba;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;107;5;110;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;120;5;126;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromRgba($r, $g, $b, $a)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given R, G, B and A values&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$r&lt;/b&gt;&#10;    int &lt;b&gt;$g&lt;/b&gt;&#10;    int &lt;b&gt;$b&lt;/b&gt;&#10;    float &lt;b&gt;$a&lt;/b&gt;;;d4,108;;b1,0;;m0;;eint $r;;pint $g;;pint $b;;pfloat $a;;p">
+</treenode>
+<treenode node="initFromString;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f11;62;5;67;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Color.php;f11;85;5;93;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromString($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates color object from given string&#10;\Intervention\Image\AbstractColor&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$value&lt;/b&gt;;;d4,63;;b1,0;;m0;;estring $value;;p">
+</treenode>
+<treenode node="rgb2alpha;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f12;270;5;274;;;;vpos;;v;;afloat;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    rgb2alpha($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates RGA integer alpha value into float value&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$value&lt;/b&gt;;;d4,271;;b3,0;;m0;;eint $value;;p">
+</treenode>
+<treenode node="setPixel;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Color.php;f12;245;5;252;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setPixel($r, $g, $b, $a = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates ImagickPixel from given RGBA values&#10;\ImagickPixel;;d4,246;;b3,0;;m0;;er;;pg;;pb;;pa;;p">
+</treenode>
+</treenode>
+<treenode node="ColorizeCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ColorizeCommand.php;f0;4;1;41;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ColorizeCommand.php;f0;4;1;26;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ColorizeCommand.php;f11;12;5;31;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ColorizeCommand.php;f11;12;5;25;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Changes balance of different RGB color channels&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+<treenode node="normalizeLevel;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ColorizeCommand.php;f12;33;5;40;;;;vpos;;v;;a;;r;;d4,34;;b3,0;;m0;;elevel;;p">
+</treenode>
+</treenode>
+<treenode node="Constraint;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f0;4;1;91;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="ASPECTRATIO;PHP:PHP Word;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f9;9;21;9;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Bit value of aspect ratio constraint;;d-1,-1;;b0,5;;m0;;e">
+</treenode>
+<treenode node="UPSIZE;PHP:PHP Word;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f9;14;16;14;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Bit value of upsize constraint;;d-1,-1;;b1,5;;m0;;e">
+</treenode>
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f11;35;5;38;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct(Size $size)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create a new constraint based on size&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Size &lt;b&gt;$size&lt;/b&gt;;;d4,36;;b1,0;;m0;;eSize $size;;p">
+</treenode>
+<treenode node="aspectRatio;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f11;77;5;80;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    aspectRatio()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Fixes aspect ratio in current constraint;;d4,78;;b1,0;;m0;;e">
+</treenode>
+<treenode node="fix;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f11;56;5;59;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    fix($type)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Fix the given argument in current constraint&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$type&lt;/b&gt;;;d4,57;;b1,0;;m0;;eint $type;;p">
+</treenode>
+<treenode node="getSize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f11;45;5;48;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getSize()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns current size of constraint&#10;\Intervention\Image\Size;;d4,46;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isFixed;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f11;67;5;70;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isFixed($type)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if given argument is fixed in current constraint&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$type&lt;/b&gt;;;d4,68;;b1,0;;m0;;eint $type;;p">
+</treenode>
+<treenode node="upsize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Constraint.php;f11;87;5;90;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    upsize()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Fixes possibility to size up in current constraint;;d4,88;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ContrastCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ContrastCommand.php;f0;4;1;18;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ContrastCommand.php;f0;4;1;18;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ContrastCommand.php;f11;12;5;17;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ContrastCommand.php;f11;12;5;17;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Changes contrast of image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="CropCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\CropCommand.php;f0;7;1;42;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\CropCommand.php;f0;7;1;39;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\CropCommand.php;f11;15;5;41;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\CropCommand.php;f11;15;5;38;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Crop an image instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,16;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="Decoder;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Decoder.php;f0;6;1;120;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Decoder.php;f0;6;1;152;;;;vpos;;v;;aAbstractDecoder;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="gdResourceToTruecolor;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Decoder.php;f11;129;5;151;;;;vpos;;v;;abool;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    gdResourceToTruecolor(&amp;$resource)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Transform GD resource into Truecolor version&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    resource &lt;b&gt;$resource&lt;/b&gt;;;d4,130;;b1,0;;m0;;eresource $resource;;p">
+</treenode>
+<treenode node="initFromBinary;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Decoder.php;f11;76;5;98;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Decoder.php;f11;107;5;121;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromBinary($binary)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from binary data&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$data&lt;/b&gt;;;d4,77;;b1,0;;m0;;estring $data;;p">
+</treenode>
+<treenode node="initFromGdResource;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Decoder.php;f11;45;5;50;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Decoder.php;f11;83;5;86;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromGdResource($resource)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from GD resource&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Resource &lt;b&gt;$resource&lt;/b&gt;;;d4,46;;b1,0;;m0;;eResource $resource;;p">
+</treenode>
+<treenode node="initFromImagick;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Decoder.php;f11;58;5;68;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Decoder.php;f11;94;5;99;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromImagick(\Imagick $object)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from Imagick object&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Imagick &lt;b&gt;$object&lt;/b&gt;;;d4,59;;b1,0;;m0;;eImagick $object;;p">
+</treenode>
+<treenode node="initFromPath;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Decoder.php;f11;14;5;37;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Decoder.php;f11;14;5;75;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    initFromPath($path)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates new image from path in filesystem&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$path&lt;/b&gt;;;d4,15;;b1,0;;m0;;estring $path;;p">
+</treenode>
+<treenode node="removeAnimation;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Decoder.php;f12;107;5;119;;;;vpos;;v;;aImagick;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    removeAnimation(\Imagick $object)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Turns object into one frame Imagick object&#10;by removing all frames except first&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Imagick &lt;b&gt;$object&lt;/b&gt;;;d4,108;;b3,0;;m0;;eImagick $object;;p">
+</treenode>
+</treenode>
+<treenode node="DemoFilter;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Filters\DemoFilter.php;f0;4;1;41;;;;vpos;;v;;aFilterInterface;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="DEFAULT_SIZE;PHP:PHP Word;C:\OpenServer\domains\store\admin\Intervention\Image\Filters\DemoFilter.php;f9;9;22;9;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Default size of filter effects;;d-1,-1;;b0,5;;m0;;e">
+</treenode>
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Filters\DemoFilter.php;f11;23;5;26;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($size = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new instance of filter&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$size&lt;/b&gt;;;d4,24;;b1,0;;m0;;eint $size;;p">
+</treenode>
+<treenode node="applyFilter;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Filters\DemoFilter.php;f11;34;5;40;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    applyFilter(\Intervention\Image\Image $image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Applies filter effects to given image&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,35;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="DestroyCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\DestroyCommand.php;f0;4;1;24;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\DestroyCommand.php;f0;4;1;24;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\DestroyCommand.php;f11;12;5;23;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\DestroyCommand.php;f11;12;5;23;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Destroys current image core and frees up memory&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="Driver;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Driver.php;f0;4;1;69;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Driver.php;f0;4;1;85;;;;vpos;;v;;aAbstractDriver;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Driver.php;f11;12;5;22;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Driver.php;f11;12;5;22;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct(Decoder $decoder = null, Encoder $encoder = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new instance of driver&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Decoder &lt;b&gt;$decoder&lt;/b&gt;&#10;    Encoder &lt;b&gt;$encoder&lt;/b&gt;;;d4,13;;b1,0;;m0;;eDecoder $decoder;;pEncoder $encoder;;p">
+</treenode>
+<treenode node="cloneCore;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Driver.php;f11;71;5;84;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    cloneCore($core)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns clone of given core;;d4,72;;b1,0;;m0;;ecore;;p">
+</treenode>
+<treenode node="coreAvailable;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Driver.php;f14;65;5;68;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Driver.php;f14;61;5;64;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    coreAvailable()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if core module installation is available;;d4,66;;b2,0;;m0;;e">
+</treenode>
+<treenode node="newImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Driver.php;f11;32;5;47;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Driver.php;f11;32;5;43;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    newImage($width, $height, $background = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new image instance&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;&#10;    mixed &lt;b&gt;$background&lt;/b&gt;;;d4,33;;b1,0;;m0;;eint $width;;pint $height;;pmixed $background;;p">
+</treenode>
+<treenode node="parseColor;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Driver.php;f11;55;5;58;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Driver.php;f11;51;5;54;;;;vpos;;v;;aAbstractColor;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    parseColor($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Reads given string into color object&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$value&lt;/b&gt;;;d4,56;;b1,0;;m0;;estring $value;;p">
+</treenode>
+</treenode>
+<treenode node="EllipseCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\EllipseCommand.php;f0;6;1;35;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\EllipseCommand.php;f11;14;5;34;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draws ellipse on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="EllipseShape;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\EllipseShape.php;f0;7;1;64;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\EllipseShape.php;f0;7;1;63;;;;vpos;;v;;aAbstractShape;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\EllipseShape.php;f11;29;5;33;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\EllipseShape.php;f11;29;5;33;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($width = null, $height = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create new ellipse instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;;;d4,30;;b1,0;;m0;;eint $width;;pint $height;;p">
+</treenode>
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\EllipseShape.php;f11;43;5;63;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\EllipseShape.php;f11;43;5;62;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    applyToImage(Image $image, $x = 0, $y = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draw ellipse instance on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,44;;b1,0;;m0;;eImage $image;;pint $x;;pint $y;;p">
+</treenode>
+</treenode>
+<treenode node="Encoder;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f0;4;1;167;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f0;4;1;121;;;;vpos;;v;;aAbstractEncoder;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="processBmp;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;116;5;128;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;91;5;96;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processBmp()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as BMP string;;d4,117;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processGif;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;54;5;66;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;46;5;55;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processGif()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as GIF string;;d4,55;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processIco;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;135;5;147;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;103;5;108;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processIco()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as ICO string;;d4,136;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processJpeg;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;11;5;28;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;11;5;20;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processJpeg()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as JPEG string;;d4,12;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processPng;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;35;5;47;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;27;5;39;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processPng()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as PNG string;;d4,36;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processPsd;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;154;5;166;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;115;5;120;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processPsd()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as PSD string;;d4,155;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processTiff;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;95;5;109;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;79;5;84;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    processTiff()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Processes and returns encoded image as TIFF string;;d4,96;;b2,0;;m0;;e">
+</treenode>
+<treenode node="processWebp;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Encoder.php;f14;68;5;88;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Encoder.php;f14;57;5;72;;;;vpos;;v;;a;;r;;d4,69;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ExifCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ExifCommand.php;f0;6;1;61;;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\ExifCommand.php;f0;4;1;36;;;;vpos;;v;;aBaseCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="dontPreferExtension;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ExifCommand.php;f11;18;5;20;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    dontPreferExtension()&#10;;;d42,18;;b1,0;;m0;;e">
+</treenode>
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ExifCommand.php;f11;28;5;60;;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\ExifCommand.php;f11;15;5;35;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Read Exif data from the given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,29;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="File;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\File.php;f0;4;1;91;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="basePath;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\File.php;f11;82;5;89;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    basePath()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get fully qualified path;;d4,83;;b1,0;;m0;;e">
+</treenode>
+<treenode node="filesize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\File.php;f11;66;5;75;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    filesize()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get file size;;d4,67;;b1,0;;m0;;e">
+</treenode>
+<treenode node="setFileInfoFromPath;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\File.php;f11;46;5;59;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setFileInfoFromPath($path)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets all instance properties from given path&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$path&lt;/b&gt;;;d4,47;;b1,0;;m0;;estring $path;;p">
+</treenode>
+</treenode>
+<treenode node="FillCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\FillCommand.php;f0;8;1;102;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\FillCommand.php;f0;7;1;67;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\FillCommand.php;f11;16;5;101;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\FillCommand.php;f11;15;5;66;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Fills image with color or pattern&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,17;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="FitCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\FitCommand.php;f0;6;1;40;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\FitCommand.php;f0;6;1;31;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\FitCommand.php;f11;14;5;39;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\FitCommand.php;f11;14;5;30;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Crops and resized an image at the same time&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="FlipCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\FlipCommand.php;f0;4;1;24;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\FlipCommand.php;f0;4;1;36;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\FlipCommand.php;f11;12;5;23;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\FlipCommand.php;f11;12;5;35;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Mirrors an image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="Font;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Font.php;f0;6;1;117;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Font.php;f0;6;1;254;;;;vpos;;v;;aAbstractFont;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Font.php;f11;16;5;76;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Font.php;f11;130;5;253;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    applyToImage(Image $image, $posx = 0, $posy = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draws font to given image at given position&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$posx&lt;/b&gt;&#10;    int &lt;b&gt;$posy&lt;/b&gt;;;d4,17;;b1,0;;m0;;eImage $image;;pint $posx;;pint $posy;;p">
+</treenode>
+<treenode node="getBoxSize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Font.php;f11;83;5;116;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Font.php;f11;77;5;120;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getBoxSize()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates bounding box of current font setting;;d4,84;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getInternalFont;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Font.php;f12;23;5;35;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getInternalFont()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Filter function to access internal integer font values;;d4,24;;b3,0;;m0;;e">
+</treenode>
+<treenode node="getInternalFontHeight;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Font.php;f12;52;5;70;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getInternalFontHeight()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get height of an internal font character;;d4,53;;b3,0;;m0;;e">
+</treenode>
+<treenode node="getInternalFontWidth;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Font.php;f12;42;5;45;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getInternalFontWidth()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get width of an internal font character;;d4,43;;b3,0;;m0;;e">
+</treenode>
+<treenode node="getPointSize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Font.php;f14;13;5;16;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getPointSize()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get font size in points;;d4,14;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="GammaCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\GammaCommand.php;f0;4;1;18;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\GammaCommand.php;f0;4;1;18;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\GammaCommand.php;f11;12;5;17;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\GammaCommand.php;f11;12;5;17;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Applies gamma correction to a given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="GetSizeCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\GetSizeCommand.php;f0;6;1;26;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\GetSizeCommand.php;f0;6;1;23;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\GetSizeCommand.php;f11;14;5;25;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\GetSizeCommand.php;f11;14;5;22;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Reads size of given image instance in pixels&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="GreyscaleCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\GreyscaleCommand.php;f0;4;1;16;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\GreyscaleCommand.php;f0;4;1;16;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\GreyscaleCommand.php;f11;12;5;15;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\GreyscaleCommand.php;f11;12;5;15;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Turns an image into a greyscale version&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="HeightenCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\HeightenCommand.php;f0;4;1;27;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\HeightenCommand.php;f0;4;1;27;;;;vpos;;v;;aResizeCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\HeightenCommand.php;f11;12;5;26;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\HeightenCommand.php;f11;12;5;26;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Resize image proportionally to given height&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="Image;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f0;53;1;362;;C:\OpenServer\domains\store\admin\Intervention\Image\Facades\Image.php;f0;6;1;12;;;;vpos;;v;;aFacade;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__call;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;103;5;107;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __call($name, $arguments)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Magic method to catch all image calls&#10;usually any AbstractCommand&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$name&lt;/b&gt;&#10;    Array &lt;b&gt;$arguments&lt;/b&gt;;;d4,104;;b1,0;;m0;;estring $name;;pArray $arguments;;p">
+</treenode>
+<treenode node="__clone;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;358;5;361;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __clone()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Cloning an image;;d4,359;;b1,0;;m0;;e">
+</treenode>
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;89;5;93;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct(AbstractDriver $driver = null, $core = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates a new Image instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    AbstractDriver &lt;b&gt;$driver&lt;/b&gt;&#10;    mixed &lt;b&gt;$core&lt;/b&gt;;;d4,90;;b1,0;;m0;;eAbstractDriver $driver;;pmixed $core;;p">
+</treenode>
+<treenode node="__toString;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;350;5;353;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __toString()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns encoded image data in string conversion;;d4,351;;b1,0;;m0;;e">
+</treenode>
+<treenode node="backupExists;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f12;258;5;261;;;;vpos;;v;;abool;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    backupExists($name)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if named backup exists&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$name&lt;/b&gt;;;d4,259;;b3,0;;m0;;estring $name;;p">
+</treenode>
+<treenode node="encode;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;116;5;119;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    encode($format = null, $quality = 90)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Starts encoding of current image&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$format&lt;/b&gt;&#10;    int &lt;b&gt;$quality&lt;/b&gt;;;d4,117;;b1,0;;m0;;estring $format;;pint $quality;;p">
+</treenode>
+<treenode node="filter;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;159;5;162;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    filter(Filters\FilterInterface $filter)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Runs a given filter on current image&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    FiltersFilterInterface &lt;b&gt;$filter&lt;/b&gt;;;d4,160;;b1,0;;m0;;eFiltersFilterInterface $filter;;p">
+</treenode>
+<treenode node="getBackup;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;213;5;224;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getBackup($name = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns current image backup&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$name&lt;/b&gt;;;d4,214;;b1,0;;m0;;estring $name;;p">
+</treenode>
+<treenode node="getBackups;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;231;5;234;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getBackups()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns all backups attached to image;;d4,232;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getCore;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;190;5;193;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getCore()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns current image resource/obj;;d4,191;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getDriver;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;169;5;172;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getDriver()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns current image driver&#10;\Intervention\Image\AbstractDriver;;d4,170;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getEncoded;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;278;5;281;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getEncoded()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Returns encoded image data of current image;;d4,279;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getFacadeAccessor;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Facades\Image.php;f21;8;5;11;;;;vpos;;v;;a;;r;;d4,9;;b2,5;;m0;;e">
+</treenode>
+<treenode node="getHeight;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;320;5;323;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getHeight()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates current image height;;d4,321;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getWidth;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;300;5;303;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getWidth()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculates current image width;;d4,301;;b1,0;;m0;;e">
+</treenode>
+<treenode node="height;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;330;5;333;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    height()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Alias of getHeight;;d4,331;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isEncoded;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;268;5;271;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    isEncoded()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if current image is already encoded;;d4,269;;b1,0;;m0;;e">
+</treenode>
+<treenode node="mime;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;340;5;343;;;;vpos;;v;;astring;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    mime()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Reads mime type;;d4,341;;b1,0;;m0;;e">
+</treenode>
+<treenode node="save;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;128;5;151;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    save($path = null, $quality = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Saves encoded image in filesystem&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$path&lt;/b&gt;&#10;    int &lt;b&gt;$quality&lt;/b&gt;;;d4,129;;b1,0;;m0;;estring $path;;pint $quality;;p">
+</treenode>
+<treenode node="setBackup;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;243;5;250;;;;vpos;;v;;aself;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setBackup($resource, $name = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets current image backup&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$resource&lt;/b&gt;&#10;    string &lt;b&gt;$name&lt;/b&gt;;;d4,244;;b1,0;;m0;;emixed $resource;;pstring $name;;p">
+</treenode>
+<treenode node="setCore;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;200;5;205;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setCore($core)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets current image resource&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$core&lt;/b&gt;;;d4,201;;b1,0;;m0;;emixed $core;;p">
+</treenode>
+<treenode node="setDriver;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;178;5;183;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setDriver(AbstractDriver $driver)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets current image driver&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    AbstractDriver &lt;b&gt;$driver&lt;/b&gt;;;d4,179;;b1,0;;m0;;eAbstractDriver $driver;;p">
+</treenode>
+<treenode node="setEncoded;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;288;5;293;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setEncoded($value)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets encoded image buffer&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$value&lt;/b&gt;;;d4,289;;b1,0;;m0;;estring $value;;p">
+</treenode>
+<treenode node="width;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Image.php;f11;310;5;313;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    width()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Alias of getWidth();;d4,311;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ImageException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\ImageException.php;f0;4;1;7;;;;vpos;;v;;aRuntimeException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ImageManager;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f0;6;1;139;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f11;22;5;26;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct(array $config = [])&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates new instance of Image Manager&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$config&lt;/b&gt;;;d4,23;;b1,0;;m0;;earray $config;;p">
+</treenode>
+<treenode node="cache;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f11;78;5;95;;;;vpos;;v;;aImage;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    cache(Closure $callback, $lifetime = null, $returnObj = false)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create new cached image and run callback&#10;(requires additional package intervention/imagecache)&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Closure &lt;b&gt;$callback&lt;/b&gt;&#10;    int &lt;b&gt;$lifetime&lt;/b&gt;&#10;    boolean &lt;b&gt;$returnObj&lt;/b&gt;;;d4,79;;b1,0;;m0;;eClosure $callback;;pint $lifetime;;pboolean $returnObj;;p">
+</treenode>
+<treenode node="canvas;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f11;63;5;66;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    canvas($width, $height, $background = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates an empty image canvas&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;&#10;    mixed &lt;b&gt;$background&lt;/b&gt;;;d4,64;;b1,0;;m0;;eint $width;;pint $height;;pmixed $background;;p">
+</treenode>
+<treenode node="checkRequirements;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f12;131;5;138;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    checkRequirements()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Check if all requirements are available;;d4,132;;b3,0;;m0;;e">
+</treenode>
+<treenode node="configure;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f11;35;5;40;;;;vpos;;v;;aself;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    configure(array $config = [])&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Overrides configuration settings&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$config&lt;/b&gt;;;d4,36;;b1,0;;m0;;earray $config;;p">
+</treenode>
+<treenode node="createDriver;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f12;102;5;124;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    createDriver()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates a driver instance according to config settings&#10;\Intervention\Image\AbstractDriver;;d4,103;;b3,0;;m0;;e">
+</treenode>
+<treenode node="make;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManager.php;f11;49;5;52;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    make($data)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Initiates an Image instance from different input types&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$data&lt;/b&gt;;;d4,50;;b1,0;;m0;;emixed $data;;p">
+</treenode>
+</treenode>
+<treenode node="ImageManagerStatic;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManagerStatic.php;f0;6;1;87;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManagerStatic.php;f11;20;5;23;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct(ImageManager $manager = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates a new instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    ImageManager &lt;b&gt;$manager&lt;/b&gt;;;d4,21;;b1,0;;m0;;eImageManager $manager;;p">
+</treenode>
+<treenode node="cache;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManagerStatic.php;f18;83;5;86;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    cache(Closure $callback, $lifetime = null, $returnObj = false)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create new cached image and run callback statically&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Closure &lt;b&gt;$callback&lt;/b&gt;&#10;    int &lt;b&gt;$lifetime&lt;/b&gt;&#10;    boolean &lt;b&gt;$returnObj&lt;/b&gt;;;d4,84;;b1,5;;m0;;eClosure $callback;;pint $lifetime;;pboolean $returnObj;;p">
+</treenode>
+<treenode node="canvas;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManagerStatic.php;f18;69;5;72;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    canvas($width, $height, $background = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Statically creates an empty image canvas&#10;\Intervention\Image\Image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;&#10;    mixed &lt;b&gt;$background&lt;/b&gt;;;d4,70;;b1,5;;m0;;eint $width;;pint $height;;pmixed $background;;p">
+</treenode>
+<treenode node="configure;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManagerStatic.php;f18;42;5;45;;;;vpos;;v;;aImageManager;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    configure(array $config = [])&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Statically create new custom configured image manager&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$config&lt;/b&gt;;;d4,43;;b1,5;;m0;;earray $config;;p">
+</treenode>
+<treenode node="getManager;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManagerStatic.php;f18;30;5;33;;;;vpos;;v;;aImageManager;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getManager()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get or create new ImageManager instance;;d4,31;;b1,5;;m0;;e">
+</treenode>
+<treenode node="make;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageManagerStatic.php;f18;55;5;58;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    make($data)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Statically initiates an Image instance from different input types&#10;\Intervention\Image\Image&#10;&lt;b&gt;throws&lt;/b&gt;: \Intervention\Image\Exception\NotReadableException&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    mixed &lt;b&gt;$data&lt;/b&gt;;;d4,56;;b1,5;;m0;;emixed $data;;p">
+</treenode>
+</treenode>
+<treenode node="ImageServiceProvider;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProvider.php;f0;6;1;84;;;;vpos;;v;;aServiceProvider;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProvider.php;f11;28;5;33;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($app)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create a new service provider instance.&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Illuminate\Contracts\Foundation\Application &lt;b&gt;$app&lt;/b&gt;;;d4,29;;b1,0;;m0;;e\Illuminate\Contracts\Foundation\Application $app;;p">
+</treenode>
+<treenode node="boot;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProvider.php;f11;40;5;45;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    boot()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Bootstrap the application events.;;d4,41;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getProvider;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProvider.php;f12;62;5;73;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getProvider()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Return ServiceProvider according to Laravel version&#10;\Intervention\Image\Provider\ProviderInterface;;d4,63;;b3,0;;m0;;e">
+</treenode>
+<treenode node="provides;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProvider.php;f11;80;5;83;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    provides()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get the services provided by the provider.;;d4,81;;b1,0;;m0;;e">
+</treenode>
+<treenode node="register;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProvider.php;f11;52;5;55;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    register()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Register the service provider.;;d4,53;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ImageServiceProviderLaravel4;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel4.php;f0;7;1;111;;;;vpos;;v;;aServiceProvider;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel4.php;f11;14;5;94;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    boot()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Bootstrap the application events.;;d4,15;;b1,0;;m0;;e">
+</treenode>
+<treenode node="register;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel4.php;f11;101;5;110;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    register()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Register the service provider.;;d4,102;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ImageServiceProviderLaravel5;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel5.php;f0;6;1;88;;;;vpos;;v;;aServiceProvider;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel5.php;f11;23;5;31;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    boot()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Bootstrap the application events.;;d4,24;;b1,0;;m0;;e">
+</treenode>
+<treenode node="bootstrapImageCache;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel5.php;f14;61;5;87;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    bootstrapImageCache()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Bootstrap imagecache;;d4,62;;b2,0;;m0;;e">
+</treenode>
+<treenode node="cacheIsInstalled;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel5.php;f12;13;5;16;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    cacheIsInstalled()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Determines if Intervention Imagecache is installed;;d4,14;;b3,0;;m0;;e">
+</treenode>
+<treenode node="register;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLaravel5.php;f11;38;5;54;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    register()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Register the service provider.;;d4,39;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ImageServiceProviderLeague;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLeague.php;f0;6;1;41;;;;vpos;;v;;aAbstractServiceProvider;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLeague.php;f11;25;5;28;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($config = [])&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Constructor.&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$config&lt;/b&gt;;;d4,26;;b1,0;;m0;;earray $config;;p">
+</treenode>
+<treenode node="register;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLeague.php;f11;35;5;40;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    register()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Register the server provider.;;d4,36;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ImageServiceProviderLumen;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLumen.php;f0;6;1;33;;;;vpos;;v;;aServiceProvider;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="register;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\ImageServiceProviderLumen.php;f11;13;5;32;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    register()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Register the service provider.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="InsertCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\InsertCommand.php;f0;4;1;30;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\InsertCommand.php;f0;4;1;31;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\InsertCommand.php;f11;12;5;29;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\InsertCommand.php;f11;12;5;30;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Insert another image into given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="InterlaceCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\InterlaceCommand.php;f0;4;1;26;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\InterlaceCommand.php;f0;4;1;20;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\InterlaceCommand.php;f11;12;5;25;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\InterlaceCommand.php;f11;12;5;19;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Toggles interlaced encoding mode&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="InvalidArgumentException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\InvalidArgumentException.php;f0;4;1;7;;;;vpos;;v;;aImageException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="InvertCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\InvertCommand.php;f0;4;1;16;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\InvertCommand.php;f0;4;1;16;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\InvertCommand.php;f11;12;5;15;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\InvertCommand.php;f11;12;5;15;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Inverts colors of an image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="IptcCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\IptcCommand.php;f0;4;1;63;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\IptcCommand.php;f11;12;5;62;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Read Iptc data from the given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="LimitColorsCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\LimitColorsCommand.php;f0;4;1;56;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\LimitColorsCommand.php;f0;5;1;50;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\LimitColorsCommand.php;f11;12;5;55;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\LimitColorsCommand.php;f11;13;5;49;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Reduces colors of a given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="LineCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\LineCommand.php;f0;6;1;35;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\LineCommand.php;f11;14;5;34;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draws line on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="LineShape;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\LineShape.php;f0;7;1;92;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\LineShape.php;f0;7;1;88;;;;vpos;;v;;aAbstractShape;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\LineShape.php;f11;43;5;47;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\LineShape.php;f11;43;5;47;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($x = null, $y = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create new line shape instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,44;;b1,0;;m0;;eint $x;;pint $y;;p">
+</treenode>
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\LineShape.php;f11;79;5;91;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\LineShape.php;f11;81;5;87;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    applyToImage(Image $image, $x = 0, $y = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draw current instance of line to given endpoint on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,80;;b1,0;;m0;;eImage $image;;pint $x;;pint $y;;p">
+</treenode>
+<treenode node="color;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\LineShape.php;f11;55;5;58;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\LineShape.php;f11;55;5;58;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    color($color)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set current line color&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$color&lt;/b&gt;;;d4,56;;b1,0;;m0;;estring $color;;p">
+</treenode>
+<treenode node="width;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\LineShape.php;f11;66;5;69;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\LineShape.php;f11;66;5;71;;;;vpos;;v;;avoid;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    width($width)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set current line width in pixels&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;;;d4,67;;b1,0;;m0;;eint $width;;p">
+</treenode>
+</treenode>
+<treenode node="MaskCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\MaskCommand.php;f0;4;1;57;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\MaskCommand.php;f0;4;1;80;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\MaskCommand.php;f11;12;5;56;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\MaskCommand.php;f11;12;5;79;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Applies an alpha mask to an image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="MissingDependencyException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\MissingDependencyException.php;f0;4;1;7;;;;vpos;;v;;aImageException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="NotFoundException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\NotFoundException.php;f0;4;1;7;;;;vpos;;v;;aImageException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="NotReadableException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\NotReadableException.php;f0;4;1;7;;;;vpos;;v;;aImageException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="NotSupportedException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\NotSupportedException.php;f0;4;1;7;;;;vpos;;v;;aImageException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="NotWritableException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\NotWritableException.php;f0;4;1;7;;;;vpos;;v;;aImageException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="OpacityCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\OpacityCommand.php;f0;4;1;20;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\OpacityCommand.php;f0;4;1;28;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\OpacityCommand.php;f11;12;5;19;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\OpacityCommand.php;f11;12;5;27;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Defines opacity of an image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="OrientateCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\OrientateCommand.php;f0;4;1;47;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\OrientateCommand.php;f11;12;5;46;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Correct image orientation according to Exif data&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="PickColorCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\PickColorCommand.php;f0;6;1;28;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\PickColorCommand.php;f0;6;1;35;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\PickColorCommand.php;f11;14;5;27;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\PickColorCommand.php;f11;14;5;34;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Read color information from a certain position&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="PixelCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\PixelCommand.php;f0;6;1;29;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\PixelCommand.php;f0;6;1;23;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\PixelCommand.php;f11;14;5;28;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\PixelCommand.php;f11;14;5;22;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draws one pixel to a given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="PixelateCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\PixelateCommand.php;f0;4;1;24;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\PixelateCommand.php;f0;4;1;18;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\PixelateCommand.php;f11;12;5;23;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\PixelateCommand.php;f11;12;5;17;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Applies a pixelation effect to a given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="Point;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Point.php;f0;4;1;63;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Point.php;f11;26;5;30;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($x = null, $y = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates a new instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,27;;b1,0;;m0;;eint $x;;pint $y;;p">
+</treenode>
+<treenode node="setPosition;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Point.php;f11;58;5;62;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setPosition($x, $y)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets both X and Y coordinate&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,59;;b1,0;;m0;;eint $x;;pint $y;;p">
+</treenode>
+<treenode node="setX;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Point.php;f11;37;5;40;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setX($x)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets X coordinate&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;;;d4,38;;b1,0;;m0;;eint $x;;p">
+</treenode>
+<treenode node="setY;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Point.php;f11;47;5;50;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setY($y)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sets Y coordinate&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,48;;b1,0;;m0;;eint $y;;p">
+</treenode>
+</treenode>
+<treenode node="PolygonCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\PolygonCommand.php;f0;6;1;47;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\PolygonCommand.php;f11;14;5;46;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draw a polygon on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\image $image;;p">
+</treenode>
+</treenode>
+<treenode node="PolygonShape;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\PolygonShape.php;f0;7;1;79;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\PolygonShape.php;f0;7;1;47;;;;vpos;;v;;aAbstractShape;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\PolygonShape.php;f11;21;5;24;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\PolygonShape.php;f11;21;5;24;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($points)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create new polygon instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    array &lt;b&gt;$points&lt;/b&gt;;;d4,22;;b1,0;;m0;;earray $points;;p">
+</treenode>
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\PolygonShape.php;f11;34;5;54;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\PolygonShape.php;f11;34;5;46;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    applyToImage(Image $image, $x = 0, $y = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draw polygon on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,35;;b1,0;;m0;;eImage $image;;pint $x;;pint $y;;p">
+</treenode>
+<treenode node="formatPoints;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\PolygonShape.php;f12;62;5;78;;;;vpos;;v;;aArray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    formatPoints($points)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Format polygon points to Imagick format&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Array &lt;b&gt;$points&lt;/b&gt;;;d4,63;;b3,0;;m0;;eArray $points;;p">
+</treenode>
+</treenode>
+<treenode node="PsrResponseCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\PsrResponseCommand.php;f0;6;1;44;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\PsrResponseCommand.php;f11;20;5;43;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Builds PSR7 compatible response. May replace &quot;response&quot; command in&#10;some future.&#10;Method will generate binary stream and put it inside PSR-7&#10;ResponseInterface. Following code can be optimized using native php&#10;streams and more &quot;clean&quot; streaming, however drivers has to be updated&#10;first.&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,21;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="RectangleCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\RectangleCommand.php;f0;6;1;35;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\RectangleCommand.php;f11;14;5;34;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draws rectangle on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="RectangleShape;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\RectangleShape.php;f0;7;1;82;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\RectangleShape.php;f0;7;1;74;;;;vpos;;v;;aAbstractShape;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\RectangleShape.php;f11;45;5;51;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\RectangleShape.php;f11;45;5;51;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($x1 = null, $y1 = null, $x2 = null, $y2 = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Create new rectangle shape instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$x1&lt;/b&gt;&#10;    int &lt;b&gt;$y1&lt;/b&gt;&#10;    int &lt;b&gt;$x2&lt;/b&gt;&#10;    int &lt;b&gt;$y2&lt;/b&gt;;;d4,46;;b1,0;;m0;;eint $x1;;pint $y1;;pint $x2;;pint $y2;;p">
+</treenode>
+<treenode node="applyToImage;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Shapes\RectangleShape.php;f11;61;5;81;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Shapes\RectangleShape.php;f11;61;5;73;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    applyToImage(Image $image, $x = 0, $y = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Draw rectangle to given image at certain position&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$x&lt;/b&gt;&#10;    int &lt;b&gt;$y&lt;/b&gt;;;d4,62;;b1,0;;m0;;eImage $image;;pint $x;;pint $y;;p">
+</treenode>
+</treenode>
+<treenode node="ResetCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ResetCommand.php;f0;4;1;36;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ResetCommand.php;f0;4;1;34;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ResetCommand.php;f11;12;5;35;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ResetCommand.php;f11;12;5;33;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Resets given image to its backup state&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="ResizeCanvasCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ResizeCanvasCommand.php;f0;4;1;88;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ResizeCanvasCommand.php;f0;4;1;80;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ResizeCanvasCommand.php;f11;12;5;87;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ResizeCanvasCommand.php;f11;12;5;79;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Resizes image boundaries&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="ResizeCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ResizeCommand.php;f0;4;1;26;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ResizeCommand.php;f0;4;1;81;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\ResizeCommand.php;f11;12;5;25;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ResizeCommand.php;f11;12;5;25;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Resizes image dimensions&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+<treenode node="modify;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\ResizeCommand.php;f14;41;5;80;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    modify($image, $dst_x, $dst_y, $src_x, $src_y, $dst_w, $dst_h, $src_w, $src_h)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Wrapper function for &apos;imagecopyresampled&apos;&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    int &lt;b&gt;$dst_x&lt;/b&gt;&#10;    int &lt;b&gt;$dst_y&lt;/b&gt;&#10;    int &lt;b&gt;$src_x&lt;/b&gt;&#10;    int &lt;b&gt;$src_y&lt;/b&gt;&#10;    int &lt;b&gt;$dst_w&lt;/b&gt;&#10;    int &lt;b&gt;$dst_h&lt;/b&gt;&#10;    int &lt;b&gt;$src_w&lt;/b&gt;&#10;    int &lt;b&gt;$src_h&lt;/b&gt;;;d4,42;;b2,0;;m0;;eImage $image;;pint $dst_x;;pint $dst_y;;pint $src_x;;pint $src_y;;pint $dst_w;;pint $dst_h;;pint $src_w;;pint $src_h;;p">
+</treenode>
+</treenode>
+<treenode node="Response;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Response.php;f0;4;1;68;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Response.php;f11;34;5;39;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct(Image $image, $format = null, $quality = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates a new instance of response&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Image &lt;b&gt;$image&lt;/b&gt;&#10;    string &lt;b&gt;$format&lt;/b&gt;&#10;    int &lt;b&gt;$quality&lt;/b&gt;;;d4,35;;b1,0;;m0;;eImage $image;;pstring $format;;pint $quality;;p">
+</treenode>
+<treenode node="make;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Response.php;f11;46;5;67;;;;vpos;;v;;amixed;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    make()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Builds response according to settings;;d4,47;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ResponseCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\ResponseCommand.php;f0;6;1;25;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\ResponseCommand.php;f11;14;5;24;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Builds HTTP response from given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="RotateCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\RotateCommand.php;f0;6;1;28;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\RotateCommand.php;f0;6;1;28;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\RotateCommand.php;f11;14;5;27;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\RotateCommand.php;f11;14;5;27;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Rotates image counter clockwise&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="RuntimeException;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Exception\RuntimeException.php;f0;4;1;7;;;;vpos;;v;;aImageException;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SharpenCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\SharpenCommand.php;f0;4;1;18;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\SharpenCommand.php;f0;4;1;31;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\SharpenCommand.php;f11;12;5;17;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\SharpenCommand.php;f11;12;5;30;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Sharpen image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="Size;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f0;6;1;372;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;36;5;41;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    __construct($width = null, $height = null, Point $pivot = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Creates a new Size instance&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;&#10;    Point &lt;b&gt;$pivot&lt;/b&gt;;;d4,37;;b1,0;;m0;;eint $width;;pint $height;;pPoint $pivot;;p">
+</treenode>
+<treenode node="align;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;277;5;354;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    align($position, $offset_x = 0, $offset_y = 0)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Aligns current size&apos;s pivot point to given position&#10;and moves point automatically by offset.&#10;\Intervention\Image\Size&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$position&lt;/b&gt;&#10;    int &lt;b&gt;$offset_x&lt;/b&gt;&#10;    int &lt;b&gt;$offset_y&lt;/b&gt;;;d4,278;;b1,0;;m0;;estring $position;;pint $offset_x;;pint $offset_y;;p">
+</treenode>
+<treenode node="fit;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;224;5;255;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    fit(Size $size, $position = &apos;center&apos;)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Resize given Size to best fitting size of current size.&#10;\Intervention\Image\Size&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Size &lt;b&gt;$size&lt;/b&gt;;;d4,225;;b1,0;;m0;;esize;;pposition;;p">
+</treenode>
+<treenode node="fitsInto;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;263;5;266;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    fitsInto(Size $size)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Checks if given size fits into current size&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Size &lt;b&gt;$size&lt;/b&gt;;;d4,264;;b1,0;;m0;;eSize $size;;p">
+</treenode>
+<treenode node="getConstraint;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f12;362;5;371;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getConstraint(Closure $callback = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Runs constraints on current size&#10;\Intervention\Image\Constraint&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Closure &lt;b&gt;$callback&lt;/b&gt;;;d4,363;;b3,0;;m0;;eClosure $callback;;p">
+</treenode>
+<treenode node="getHeight;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;80;5;83;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getHeight()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get the current height;;d4,81;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getRatio;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;90;5;93;;;;vpos;;v;;afloat;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getRatio()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculate the current aspect ratio;;d4,91;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getWidth;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;70;5;73;;;;vpos;;v;;aint;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    getWidth()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Get the current width;;d4,71;;b1,0;;m0;;e">
+</treenode>
+<treenode node="relativePosition;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;210;5;216;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    relativePosition(Size $size)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Calculate the relative position to another Size&#10;based on the pivot point settings of both sizes.&#10;\Intervention\Image\Point&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Size &lt;b&gt;$size&lt;/b&gt;;;d4,211;;b1,0;;m0;;eSize $size;;p">
+</treenode>
+<treenode node="resize;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;103;5;129;;;;vpos;;v;;aSize;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    resize($width, $height, Closure $callback = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Resize to desired width and/or height&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;&#10;    Closure &lt;b&gt;$callback&lt;/b&gt;;;d4,104;;b1,0;;m0;;eint $width;;pint $height;;pClosure $callback;;p">
+</treenode>
+<treenode node="resizeHeight;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f12;174;5;201;;;;vpos;;v;;aSize;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    resizeHeight($height, Closure $callback = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Scale size according to given constraints&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;&#10;    Closure &lt;b&gt;$callback&lt;/b&gt;;;d4,175;;b3,0;;m0;;eint $height;;pClosure $callback;;p">
+</treenode>
+<treenode node="resizeWidth;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f12;138;5;165;;;;vpos;;v;;aSize;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    resizeWidth($width, Closure $callback = null)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Scale size according to given constraints&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    Closure &lt;b&gt;$callback&lt;/b&gt;;;d4,139;;b3,0;;m0;;eint $width;;pClosure $callback;;p">
+</treenode>
+<treenode node="set;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;49;5;53;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    set($width, $height)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set the width and height absolutely&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    int &lt;b&gt;$width&lt;/b&gt;&#10;    int &lt;b&gt;$height&lt;/b&gt;;;d4,50;;b1,0;;m0;;eint $width;;pint $height;;p">
+</treenode>
+<treenode node="setPivot;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Size.php;f11;60;5;63;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    setPivot(Point $point)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Set current pivot point&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    Point &lt;b&gt;$point&lt;/b&gt;;;d4,61;;b1,0;;m0;;ePoint $point;;p">
+</treenode>
+</treenode>
+<treenode node="StreamCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\StreamCommand.php;f0;4;1;24;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\StreamCommand.php;f11;13;5;23;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Builds PSR7 stream based on image data. Method uses Guzzle PSR7&#10;implementation as easiest choice.&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,14;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="TextCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\TextCommand.php;f0;6;1;33;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Commands\TextCommand.php;f11;13;5;32;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Write text on given image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,14;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="TrimCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\TrimCommand.php;f0;6;1;119;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\TrimCommand.php;f0;6;1;175;;;;vpos;;v;;aAbstractCommand;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\TrimCommand.php;f11;14;5;118;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\TrimCommand.php;f11;14;5;174;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Trims away parts of an image&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,15;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+<treenode node="WidenCommand;PHP:Class Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\WidenCommand.php;f0;4;1;27;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\WidenCommand.php;f0;4;1;27;;;;vpos;;v;;aResizeCommand;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="execute;PHP:Function Name;C:\OpenServer\domains\store\admin\Intervention\Image\Imagick\Commands\WidenCommand.php;f11;12;5;26;;C:\OpenServer\domains\store\admin\Intervention\Image\Gd\Commands\WidenCommand.php;f11;12;5;26;;;;vpos;;v;;aboolean;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    execute($image)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Resize image proportionally to given width&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    \Intervention\Image\Image &lt;b&gt;$image&lt;/b&gt;;;d4,13;;b1,0;;m0;;e\Intervention\Image\Image $image;;p">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
